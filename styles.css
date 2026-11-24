@@ -1,0 +1,9 @@
+/* CSS by Rebecca Mosqueda */
+/* Color Palette (enter here) */
+
+/* GOLBAL (base) MOBILE FIRST */
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: lavender; 
+}
